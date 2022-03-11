@@ -1,0 +1,12 @@
+.header{
+    font-family: Hachi, fantasy;
+    font-size: 13px;
+    text-align: center;
+    grid-area: h;
+}
+.header audio {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 100px;
+}

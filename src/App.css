@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Hachi;
+    src: url("./components/assets/fonts/HachiMaruPop-Regular.ttf")
+}
+
+.app-wrapper {
+    background-image: url("./components/assets/images/frogs.jpg");
+    background-color: #F2E8CA;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 100px 35px 1fr 100px;
+    grid-gap: 10px;
+    grid-template-areas:
+           "h"
+           "n"
+           "m"
+           "f";
+    align-content: stretch;
+    overflow: hidden;
+}
