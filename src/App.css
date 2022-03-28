@@ -5,6 +5,7 @@
 
 .app-wrapper {
     background-image: url("./components/assets/images/frogs.jpg");
+    background-size: contain;
     background-color: #F2E8CA;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -12,11 +13,9 @@
     width: 100%;
     height: 100vh;
     display: grid;
-    grid-template-rows: 100px 35px 1fr 100px;
-    grid-gap: 10px;
+    grid-template-rows: 135px 1fr 100px;
     grid-template-areas:
            "h"
-           "n"
            "m"
            "f";
     align-content: stretch;

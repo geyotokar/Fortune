@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import './Content.css';
 import Up from '../assets/images/up.jpeg';
 import Cross from '../assets/images/cross.jpeg';
-import Iwashi from '../assets/images/ivasi.jpeg';
+import Ivasi from '../assets/images/ivashi.jpg';
 import Dragon from '../assets/images/dragon.jpeg';
 import Smoke from '../assets/images/smoke.jpeg';
 import Drunk from '../assets/images/drunk.jpeg';
@@ -15,7 +15,7 @@ import Sit from '../assets/images/sit.jpeg'
 const answers = [
     {id: 0, text: 'Если спешишь - поезжай в объезд.', img: Up},
     {id: 1, text: 'У кривой ветки и тень кривая.', img: Cross},
-    {id: 2, text: 'Лучше быть головой иваси, чем хвостом карпа.', img: Iwashi},
+    {id: 2, text: 'Лучше быть головой иваси, чем хвостом карпа.', img: Ivasi},
     {id: 3, text: 'Карп, плывущий против течения, станет драконом.', img: Dragon},
     {id: 4, text: 'Лягушка, живущая в колодце, не знает о море.', img: Smoke},
     {id: 5, text: 'Барсуки - из одной норы.', img: Drunk},

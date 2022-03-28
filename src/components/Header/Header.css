@@ -1,8 +1,13 @@
-.header{
+.header {
     font-family: Hachi, fantasy;
-    font-size: 13px;
+    font-size: 26px;
     text-align: center;
     grid-area: h;
+}
+.header-text {
+    position: inherit;
+    padding-top: 10px;
+    text-shadow: 0 0 10px #F2E8CA;
 }
 .header audio {
     position: fixed;

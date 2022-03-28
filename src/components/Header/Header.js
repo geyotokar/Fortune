@@ -9,7 +9,7 @@ const Header = () => {
                 <source src={melody}/>
             </audio>
         </span>
-        <h1>Предсказано Жабой</h1>
+        <h1 className='header header-text'>Предсказано Жабой</h1>
     </header>
 };
 
