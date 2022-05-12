@@ -11,6 +11,6 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## This is Heroku deployed
+## This is GitHub Pages deployed
 
-View the deployed project: [https://geyo-sclntwrk.herokuapp.com/](https://geyo-sclntwrk.herokuapp.com/)
+View the deployed project: [https://geyotokar.github.io/Fortune/](https://geyotokar.github.io/Fortune/)
