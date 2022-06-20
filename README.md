@@ -1,7 +1,7 @@
 # Welcome to Fortune App
 This is a randomizer for simple predictions. Cute frogs and flute backgrond melody will make your mood pleasant
 
-![Header]([https://github.com/geyotokar/SCLNTWRK/blob/main/src/assets/images/SCLNTWRK.png](https://github.com/geyotokar/Fortune/blob/28-march-22/src/components/assets/images/Fortune.png))
+![Header](https://github.com/geyotokar/Fortune/blob/28-march-22/src/components/assets/images/Fortune.png)
 
 ## This is GitHub Pages deployed
 >View the deployed project: [https://geyotokar.github.io/Fortune/](https://geyotokar.github.io/Fortune/)
